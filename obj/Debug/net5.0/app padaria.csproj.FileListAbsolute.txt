@@ -1,0 +1,16 @@
+C:\Users\dansk\workspace\app padaria\bin\Debug\net5.0\app padaria.exe
+C:\Users\dansk\workspace\app padaria\bin\Debug\net5.0\app padaria.deps.json
+C:\Users\dansk\workspace\app padaria\bin\Debug\net5.0\app padaria.runtimeconfig.json
+C:\Users\dansk\workspace\app padaria\bin\Debug\net5.0\app padaria.runtimeconfig.dev.json
+C:\Users\dansk\workspace\app padaria\bin\Debug\net5.0\app padaria.dll
+C:\Users\dansk\workspace\app padaria\bin\Debug\net5.0\ref\app padaria.dll
+C:\Users\dansk\workspace\app padaria\bin\Debug\net5.0\app padaria.pdb
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.csproj.AssemblyReference.cache
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.AssemblyInfoInputs.cache
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.AssemblyInfo.cs
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.csproj.CoreCompileInputs.cache
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.dll
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\ref\app padaria.dll
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.pdb
+C:\Users\dansk\workspace\app padaria\obj\Debug\net5.0\app padaria.genruntimeconfig.cache
